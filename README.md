@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 
 </details>
 
